@@ -1,4 +1,12 @@
-# GRAND GUIDE : ANATOMIE D'UN PROJET DE PRÉDICTION BOURSIÈRE
+# <p align="center">École Nationale de Commerce et de Gestion (ENCG)-S7 </p>
+<img src="ENCG.png" alt="Descriptive Alt Text" style="display: block; margin: 0 auto;">
+
+# <p align="center">Marouane IZAM 23009631 </p>
+## <p align="center">Groupe: CAC2 </p>
+<p align="center"><img src="MI.jpeg" alt="Descriptive Alt Text" style="display: block; margin: 0 auto;"> </p>
+
+# <p align="center">**GRAND GUIDE : ANATOMIE D'UN PROJET DE PRÉDICTION BOURSIÈRE** </p>
+
 
 Ce document décortique chaque étape du cycle de vie d'un projet de
 Machine Learning appliqué à la finance. Il est conçu pour passer du
