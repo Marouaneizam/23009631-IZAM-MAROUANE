@@ -14,8 +14,19 @@ niveau *débutant qui copie du code* au niveau *ingénieur qui comprend
 les mécanismes internes*.
 
 ------------------------------------------------------------------------
+## Sommaire
 
-## 1. Contexte Métier et Mission
+* [1. Contexte metier et mission](#1-contexte-metier-et-mission)
+* [2. Code python](#2-code-python)
+* [3. Analyse approfondie](#3-analyse-approfondie) -- Nettoyage (Data Wrangling)
+* [4. Analyse exploratoire](#4-analyse-exploratoire)
+* [5. Methodologie split](#5-methodologie-split)
+* [6. Algorithme random forest](#6-algorithme-random-forest)
+* [7. Evaluation](#7-evaluation)
+* [8. Conclusion](#7-conclusion) -- Synthèse de l'analyse et implications
+
+
+## 1. Contexte metier et mission
 
 ### 🔍 Le Problème (Business Case)
 
@@ -46,7 +57,7 @@ Dataset : `Market_Trend_External.csv`
 
 ------------------------------------------------------------------------
 
-## 2. Code Python (Laboratoire)
+## 2. Code Python
 
 ``` python
 import numpy as np
@@ -100,7 +111,7 @@ plt.show()
 
 ------------------------------------------------------------------------
 
-## 3. Analyse Approfondie : Nettoyage (Data Wrangling)
+## 3. Analyse approfondie
 
 ### ❗ Le Problème Mathématique du NaN
 
@@ -117,7 +128,7 @@ Ne jamais utiliser des statistiques calculées avec des données futures !
 
 ------------------------------------------------------------------------
 
-## 4. Analyse Exploratoire (EDA)
+## 4. Analyse exploratoire
 
 ### 📌 Interpréter `.describe()`
 
@@ -127,7 +138,7 @@ Ne jamais utiliser des statistiques calculées avec des données futures !
 
 ------------------------------------------------------------------------
 
-## 5. Méthodologie (Split)
+## 5. Methodologie split
 
 ### 🎯 Objectif : Généralisation
 
@@ -144,7 +155,7 @@ En finance, **on ne mélange jamais les jours** (pas de shuffle).
 
 ------------------------------------------------------------------------
 
-## 6. Focus Théorique : Random Forest 🌲
+## 6. Algorithme random forest
 
 ### 🌳 A. Faiblesse de l'Arbre unique
 
@@ -161,7 +172,7 @@ Majorité des votes = décision finale
 
 ------------------------------------------------------------------------
 
-## 7. Évaluation (L'Heure de Vérité)
+## 7. Evaluation
 
 ### 🔢 Matrice de Confusion
 
@@ -178,7 +189,7 @@ Majorité des votes = décision finale
 
 ------------------------------------------------------------------------
 
-## 🏁 Conclusion du Projet
+## 8. Conclusion
 
 Ce projet démontre que prédire la bourse n'est pas qu'une question de
 code.\
