@@ -3,7 +3,7 @@
 
 # <p align="center">Marouane IZAM 23009631 </p>
 ## <p align="center">Groupe: CAC2 </p>
-<p align="center"><img src="MI.jpeg" alt="Descriptive Alt Text" style="display: block; margin: 0 auto;"> </p>
+# <p align="center"><img src="MI.jpeg" alt="Descriptive Alt Text" style="display: block; margin: 0 auto;"> </p>
 
 # <p align="center">**GRAND GUIDE : ANATOMIE D'UN PROJET DE PRÉDICTION BOURSIÈRE** </p>
 
